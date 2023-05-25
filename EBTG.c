@@ -192,7 +192,7 @@ while (1) {
     printf("5. Delete a particular bus\n");
     printf("6. Update a particular bus\n");
     printf("7. Exit\n");
-    printf("Enter choice: ");
+    printf("Enter a choice: ");
     scanf("%d", &choice);
 
     switch (choice) {
@@ -221,7 +221,7 @@ while (1) {
             cancelSeat(bus_id, seat_number);
             break;
         case 5:
-            printf("Enter bus ID: ");
+            printf("Enter Bus id: ");
             scanf("%d", &bus_id);
             deleteBus(bus_id);
             break;

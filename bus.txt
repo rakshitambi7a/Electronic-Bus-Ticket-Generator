@@ -1,0 +1,8 @@
+1 Phagwara Jalandhar 20 30
+2 Jalandhar Phagwara 30 40
+3 Phagwara Jalandhar 10 40
+4 Chandigarh Phagwara 200 35
+5 Chandigarh Jalandhar 250 40
+6 Jalandhar Chandigarh 300 30
+7 Phagwara Jalandhar 16 40
+8 Phagwara Delhi 500 40
