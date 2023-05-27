@@ -209,7 +209,7 @@ while (1) {
         case 3:
             printf("Enter bus ID: ");
             scanf("%d", &bus_id);
-            printf("Enter seat number: ");
+            printf("Enter Seat Number: ");
             scanf("%d", &seat_number);
             bookSeat(bus_id, seat_number);
             break;
