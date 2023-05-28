@@ -189,7 +189,7 @@ while (1) {
     printf("2. Add new bus\n");
     printf("3. Book seat\n");
     printf("4. Cancel seat\n");
-    printf("5. Delete a particular bus\n");
+    printf("5. Delete a Particular bus\n");
     printf("6. Update a particular bus\n");
     printf("7. Exit\n");
     printf("Enter a Choice: ");
