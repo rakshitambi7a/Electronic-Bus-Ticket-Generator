@@ -158,7 +158,7 @@ printf("Bus with ID %d deleted successfully.\n", bus_id);
 return;
 }
 }
-printf("Bus not found.\n");
+printf("Bus Not Found.\n");
 }
 
 // Function to update a bus
