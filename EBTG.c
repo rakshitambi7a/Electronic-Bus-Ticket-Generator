@@ -154,7 +154,7 @@ for (int j = i; j < num_buses - 1; j++) {
 buses[j] = buses[j + 1];
 }
 num_buses--;
-printf("Bus with ID %d deleted successfully.\n", bus_id);
+printf("Bus with ID %d Deleted Successfully.\n", bus_id);
 return;
 }
 }
