@@ -139,7 +139,7 @@ return;
 }
 buses[i].seats[seat_number - 1].is_booked = 0;
 fp=fopen("bus.txt","r");
-printf("Seat %d cancelled successfully.\n", seat_number);
+printf("Seat %d Cancelled successfully.\n", seat_number);
 return;
 }
 }
